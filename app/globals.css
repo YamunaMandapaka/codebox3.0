@@ -130,4 +130,8 @@
   html {
     @apply font-sans;
   }
+
+  .font-game {
+    font-family: var(--font-game);
+  }
 }
